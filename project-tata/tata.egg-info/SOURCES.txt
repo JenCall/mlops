@@ -1,0 +1,8 @@
+setup.py
+tata/__init__.py
+tata/lib.py
+tata.egg-info/PKG-INFO
+tata.egg-info/SOURCES.txt
+tata.egg-info/dependency_links.txt
+tata.egg-info/requires.txt
+tata.egg-info/top_level.txt
